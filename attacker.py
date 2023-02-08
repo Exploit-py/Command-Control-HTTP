@@ -1,6 +1,7 @@
 import requests
 from time import sleep
 import os
+import platform
 
 s = requests.Session()
 
